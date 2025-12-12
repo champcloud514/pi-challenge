@@ -1,3 +1,4 @@
+[![Build Status](http://localhost:8080/job/pi-challenge/badge/icon)](http://localhost:8080/job/pi-challenge/)
 # pi-challenge
  03_05 Challenge Connect Jenkins to GitHub
 
